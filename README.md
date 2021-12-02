@@ -23,6 +23,34 @@ At the end these fusion trained
                        it usually takes a lot of time for training a model, but this hybrid technique reduced the training
                        time and at the same time gave __very good accuracy.__
 
+<b>Folder Structure : </b>
+```
+                    X-ray       --> main folder
+                      ----| train      
+                          ----| COVID-19
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                              ----| img4.jpg
+                          ----| NORMAL
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                              ----| img4.jpg
+
+                      ----| test
+                          ----| COVID-19
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                              ----| img4.jpg
+                          ----| NORMAL
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                              ----| img4.jpg 
+```
+
 <b>Network Architecture : </b>
 <p align="center">
   <img class="center" src ="/main/vgg.png" alt="Drawing" style="width: 900px; height: 500px">
