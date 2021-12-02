@@ -7,7 +7,7 @@
   <img class="center" src ="https://www.uab.edu/news/images/2018/COVIDEvolution.jpg" alt="Drawing" style="width: 1350px; height: 600px">
 </p>
 
-<b>Description : </b> Covid-19 Detection from MRI's or CT Scan Images using __Deep Hybrid Learning Technique__. Here in this project, I am combining best of the both world's, one is traditional __Machine Learning__ and __Deep Learning__ to create a solution that works amazingly well especially when we have a limited training dataset. Here I used __VGG16 pretrained network__ for extracting useful features of image dataset and finally used __XGBOOST__ for classifying the images.
+<b>Description : </b> Covid-19 Detection from MRI's or CT Scan Images using __Deep Hybrid Learning Technique__. Here in this project, I am combining best of the both world's, one is traditional __Machine Learning__ and __Deep Learning__ to create a solution that works amazingly well especially when we have a limited training dataset. Here I used __VGG16 Pre-trained Network__ for extracting useful features of image dataset and finally used __XGBOOST__ for classifying the images.
 
  XGBoost is optimized version of gradient boosting and it is a much evolved version of random forest, actually XGBoost optimize speed 
                        and possibly accuracy. Suppose we don't have millions or thousands of images that required for deep learning then I found 
