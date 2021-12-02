@@ -37,9 +37,10 @@ def predict_class(image) :
     with st.spinner('Loading, please be patient...') :
         # model = joblib.load(r'E:\DHL Project\CNN Projects\Deep Hybrid Learning Projects\X-ray\xray.pkl')
         model = joblib.load('xray.pkl')
-        vggmodel = VGG16(weights = 'imagenet', include_top = False, input_shape = (256, 256, 3))
-        for i in vggmodel.layers :
-            i.trainable = False
+    
+    vggmodel = VGG16(weights = 'imagenet', include_top = False, input_shape = (256, 256, 3))
+    for i in vggmodel.layers :
+        i.trainable = False
 
     label = {0 : 'COVID-19', 1 : 'NORMAL'}
 
