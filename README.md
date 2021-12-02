@@ -25,7 +25,7 @@
 </p>
 
 <b>Heroku App : paste link here</b><br>
-<b>Dataset Source : link</b>
+<b>Dataset Source : https://www.kaggle.com/fusicfenta/chest-xray-for-covid19-detection</b>
 
 <b>Sample Output : </b>
 <p align="center">
