@@ -7,4 +7,3 @@ opencv-python>=4.5.4.58
 pillow>=8.4.0
 pandas>=1.3.4
 setuptools>=58.0.4
-pickle>=4.0
