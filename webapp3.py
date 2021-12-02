@@ -5,6 +5,7 @@ import joblib
 import tensorflow.keras as keras
 from tensorflow.keras.applications.vgg16 import VGG16
 import numpy as np
+import xgboost
 
 hide_streamlit_style = """
             <style>
