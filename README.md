@@ -45,3 +45,7 @@ At the end these fusion trained
 <p align="center">
   <img class="center" src ="/main/Image 6.png" alt="Drawing" style="width: 1400px; height: 800px">
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
+</p>
