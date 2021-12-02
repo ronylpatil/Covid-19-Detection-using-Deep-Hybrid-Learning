@@ -15,4 +15,6 @@
 <b>Dataset Source : link</b>
 
 <b>Sample Output : </b>
-
+<p align="center">
+  <img class="center" src ="/main/sample/potato.png" alt="Drawing" style="width: 1400px; height: 800px">
+</p>
