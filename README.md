@@ -66,7 +66,6 @@ At the end these fusion trained
   <img class="center" src ="/main/classification report.png" alt="Drawing" style="width: 400px; height: 170px">
 </p>
 
-<b>Heroku App : paste link here</b><br>
 <b>Dataset Source : https://www.kaggle.com/fusicfenta/chest-xray-for-covid19-detection</b>
 
 <b>Sample Output : </b>
