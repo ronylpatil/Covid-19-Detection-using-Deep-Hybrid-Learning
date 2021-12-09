@@ -37,8 +37,18 @@ At the end these fusion trained
                               ----| img2.jpg
                               ----| img3.jpg
                               ----| img4.jpg
-
                       ----| test
+                          ----| COVID-19
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                              ----| img4.jpg
+                          ----| NORMAL
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                              ----| img4.jpg 
+                      ----| valid
                           ----| COVID-19
                               ----| img1.jpg
                               ----| img2.jpg
